@@ -7,8 +7,8 @@
 
 # set variables
 
-disable=false
-#disable=true
+#disable=false
+disable=true
 name=$IMAGE_NAME
 version=$IMAGE_VERSION
 image="${name}${version}"

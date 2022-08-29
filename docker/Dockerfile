@@ -1,0 +1,3 @@
+FROM scratch
+ARG VMIMAGE_PATH
+ADD $VMIMAGE_PATH /disk/
